@@ -1,0 +1,30 @@
+{
+  "name": "quiapraesentium",
+  "version": "1.0.0",
+  "description": "Mocks methods of the Ethereum web3 api",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KevonParisian/quiapraesentium.git"
+  },
+  "keywords": [
+    "ethereum",
+    "aut",
+    "at",
+    "web3"
+  ],
+  "author": "BradlyKemmer",
+  "contributor": "Francesco Sullo <francesco@sullo.co>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KevonParisian/quiapraesentium.git/issues"
+  },
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^3.5.3"
+  },
+  "dependencies": {
+    "bignumber.js": "^4.1.0",
+    "moment": "^2.18.1"
+  }
+}
